@@ -3,8 +3,8 @@
       "bank_logo":"JT",
       "bank_name":"JT친애저축은행",
       "product_name":"신용대출",
-      "min_interest":"15.45%",
-      "max_interest":"19.01%",
+      "min_interest":"15.45 %",
+      "max_interest":"19.01 %",
       "amount":"10,000",
       "hashtag":[
          "직장인"
@@ -85,8 +85,8 @@
       "bank_logo":"JT",
       "bank_name":"JT친애저축은행",
       "product_name":"대환대출",
-      "min_interest":"15.45%",
-      "max_interest":"19.01%",
+      "min_interest":"15.45 %",
+      "max_interest":"19.01 %",
       "amount":"10,000",
       "hashtag":[
          "직장인"
@@ -167,8 +167,8 @@
       "bank_logo":"Daol",
       "bank_name":"다올저축은행",
       "product_name":"Fi 직장인",
-      "min_interest":"5.90%",
-      "max_interest":"19.90%",
+      "min_interest":"5.90 %",
+      "max_interest":"19.90 %",
       "amount":"10,000",
       "hashtag":[
          "직장인",
@@ -248,8 +248,8 @@
       "bank_logo":"Daol",
       "bank_name":"다올저축은행",
       "product_name":"Fi 사업자B",
-      "min_interest":"12.34%",
-      "max_interest":"19.90%",
+      "min_interest":"12.34 %",
+      "max_interest":"19.90 %",
       "amount":"3,000",
       "hashtag":[
          "자영업"
@@ -330,8 +330,8 @@
       "bank_logo":"Daol",
       "bank_name":"다올저축은행",
       "product_name":"Fi 주부",
-      "min_interest":"12.48%",
-      "max_interest":"18.80%",
+      "min_interest":"12.48 %",
+      "max_interest":"18.80 %",
       "amount":"500",
       "hashtag":[
          "주부",
@@ -413,8 +413,8 @@
       "bank_logo":"Kiwoom",
       "bank_name":"키움저축은행",
       "product_name":"키움신용대출",
-      "min_interest":"12.2%",
-      "max_interest":"19.9%",
+      "min_interest":"12.2 %",
+      "max_interest":"19.9 %",
       "amount":"80,000",
       "hashtag":[
          "직장인"
